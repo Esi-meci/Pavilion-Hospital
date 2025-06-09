@@ -1,0 +1,18 @@
+/* .hero{
+    background-image:url(../Images/Group117.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  height: 450px;
+    width: 100%;
+} */
+
+@media (max-width: 768px) {
+    .hero{
+        display: flex;
+      height: 100%;
+        width: 100%;
+    }
+    
+}
